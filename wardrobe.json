@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Blue Denim Jeans",
+        "category": "bottom",
+        "color": "blue",
+        "material": "denim",
+        "wear_count": 5
+    },
+    {
+        "id": 2,
+        "name": "White Cotton T-Shirt",
+        "category": "top",
+        "color": "white",
+        "material": "cotton",
+        "wear_count": 12
+    },
+    {
+        "id": 3,
+        "name": "Black Leather Boots",
+        "category": "shoes",
+        "color": "black",
+        "material": "leather",
+        "wear_count": 8
+    },
+    {
+        "id": 4,
+        "name": "Beige Wool Trench Coat",
+        "category": "jacket",
+        "color": "beige",
+        "material": "wool",
+        "wear_count": 3
+    },
+    {
+        "id": 5,
+        "name": "Floral Summer Dress",
+        "category": "dress",
+        "color": "floral",
+        "material": "silk",
+        "wear_count": 1
+    }
+]
