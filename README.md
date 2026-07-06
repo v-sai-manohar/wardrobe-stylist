@@ -111,3 +111,14 @@ graph TD
    ```
 
 ⚠ NEVER push `.env` to GitHub. Your API key will be exposed publicly.
+
+---
+
+## Assets
+
+### Project Banner
+![Cover Banner](assets/cover_page_banner.png)
+
+### Agent Workflow Architecture
+![Workflow Architecture Diagram](assets/architecture_diagram.png)
+
