@@ -114,6 +114,12 @@ graph TD
 
 ---
 
+## Demo Script
+
+The spoken narration presentation script for this project can be found in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
+
+---
+
 ## Assets
 
 ### Project Banner
